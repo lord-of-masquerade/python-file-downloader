@@ -1,2 +1,16 @@
-# python-file-downloader
-Python File Downloader is a beginner-friendly command-line utility that downloads files from public URLs using HTTP streaming. The project focuses on clean logic, proper error handling, and efficient file I/O, demonstrating core Python skills used in real-world applications.
+# Python File Downloader
+
+A simple Python-based file downloader that fetches files from public URLs and saves them locally.
+
+## Features
+- Downloads files from public URLs
+- Streams data in chunks
+- Basic error handling
+
+## Tech Stack
+- Python
+- requests library
+
+## How to Run
+pip install requests
+python main.py
